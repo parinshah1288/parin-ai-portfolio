@@ -1,63 +1,108 @@
-<img src="assets/banner.png" alt="Banner" width="100%">
+<img src="assets/banner.png" width="100%">
 
 # Parin Shah
 
 Senior Staff Software Engineer  
-Distributed Systems • Data Platforms • Artificial Intelligence
+Distributed Systems • Data Platforms • Artificial Intelligence  
 
-San Francisco Bay Area
+San Francisco Bay Area  
 
----
-
-## What I Build
-
-I design and build large-scale data and platform systems that power analytics, automation, and intelligent decision-making.
-
-My work spans:
-
-- Distributed systems and backend platforms
-- Real-time data streaming and event processing
-- Data pipelines and analytics infrastructure
-- Artificial intelligence and AI-powered applications
+[LinkedIn](https://linkedin.com/in/parin-m-shah) | [GitHub](https://github.com/parinshah1288)
 
 ---
 
-## Impact
+## About Me
 
-- Architected systems processing petabytes of data
-- Enabled platforms supporting $2B+ in annual product shipments
-- Delivered $200M+ in operational cost savings
+I am a Senior Staff Software Engineer with over 13 years of experience designing enterprise-scale distributed systems, backend platforms, and real-time data pipelines.
+
+My work focuses on building **high-performance, fault-tolerant systems** that process massive datasets and power mission-critical analytics platforms.
+
+Key impact highlights include:
+
+- Architected platforms processing **petabytes of data**
+- Enabled systems supporting **$2B+ annual product shipments**
+- Delivered **$200M+ operational cost savings**
+
+I am currently expanding my expertise in **Artificial Intelligence and Machine Learning** through graduate coursework at Indiana Wesleyan University.
+
+This portfolio showcases selected artifacts and projects related to **AI, data platforms, and intelligent applications.**
 
 ---
 
-## Professional Summary
+## Technical Focus
 
-I am a Senior Staff Software Engineer with over 13 years of experience designing enterprise-scale distributed systems, backend platforms, and real-time data pipelines. My work has focused on building fault-tolerant, high-performance systems that process large volumes of data and support mission-critical operations.
+Distributed Systems  
+Data Engineering & Data Pipelines  
+Real-time Streaming Platforms  
+Cloud Data Platforms  
+Artificial Intelligence Applications  
 
-I am expanding my expertise in artificial intelligence and machine learning through graduate coursework at Indiana Wesleyan University. This portfolio highlights selected AIML-500 artifacts and shows how AI concepts connect with large-scale data and platform engineering.
+Technologies used in my work include:
 
----
-
-## Portfolio Artifacts
-
-### [Evolution of Artificial Intelligence Timeline](artifacts/ai-timeline)
-A timeline showing major milestones in the development of artificial intelligence, from early theoretical foundations to the modern generative AI era.
-
-### [AI Travel Planner Assistant](artifacts/ai-travel-planner)
-A concept artifact showing how generative AI can be applied to practical travel planning by creating personalized itineraries and recommendations.
+C# • .NET • SQL Server • Redis • Cosmos DB  
+Apache Kafka • Azure Event Hubs • Azure Data Lake  
+Distributed Messaging • Stream Processing  
 
 ---
 
 ## Featured Projects
 
 ### 🧠 Evolution of Artificial Intelligence Timeline
-A visual timeline explaining the major milestones that shaped modern artificial intelligence — from the Turing Test and early neural networks to deep learning and generative AI.
+
+A visual timeline highlighting major milestones in the evolution of artificial intelligence — from early theoretical work to modern generative AI systems.
 
 ➡️ [View Project](artifacts/ai-timeline)
 
 ---
 
 ### ✈️ AI Travel Planner Assistant
-A generative AI application concept that helps users create personalized travel itineraries based on preferences such as location, duration, and interests.
+
+An AI-powered travel planning assistant that generates personalized travel itineraries based on destination, duration, and user preferences.
 
 ➡️ [View Project](artifacts/ai-travel-planner)
+
+---
+
+## Professional Experience
+
+### Intel Corporation — Senior Staff Software Engineer  
+2016 – 2025
+
+Designed and built distributed platforms for large-scale telemetry processing, analytics, and operational insights.
+
+- Architected a distributed data processing platform handling **petabyte-scale test data**
+- Built microservices and APIs for ingestion, parsing, querying, and analytics
+- Designed real-time streaming pipelines using **Kafka, Azure Event Hubs, Redis, Cosmos DB**
+- Implemented hot-path, warm-path, and cold-path data architectures
+- Achieved **sub-second insights and <2s streaming latency**
+
+---
+
+### Altera Corporation — Senior Software Engineer  
+2012 – 2015
+
+Developed software systems supporting large-scale FPGA testing platforms.
+
+- Built WPF client UI for test configuration and monitoring
+- Developed backend APIs using WCF for hardware integration
+- Enabled production testing workflows supporting **$2B+ chip shipments annually**
+
+---
+
+## Education
+
+**Master of Science – Computer Science**  
+San Jose State University  
+
+**Bachelor of Engineering – Computer Engineering**  
+Sardar Patel University
+
+---
+
+## Research Publication
+
+Research publication presented at **ACM Southeast Conference 2013**.
+
+Time-efficient architecture for face detection from images using support vector machines.
+
+https://dl.acm.org/doi/10.1145/2498328.2500062
