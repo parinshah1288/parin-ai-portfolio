@@ -24,5 +24,5 @@ This artifact provides a simple and structured overview of AI history. It is use
 
 ## Artifact Visual
 
-Upload a screenshot of the timeline here, or upload the PowerPoint and link it on this page.
+Link to the PPT: ./assets/Evolution OF Artificial Intelligence.pptx
 
