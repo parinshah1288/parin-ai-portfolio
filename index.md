@@ -45,3 +45,19 @@ A timeline showing major milestones in the development of artificial intelligenc
 
 ### [AI Travel Planner Assistant](artifacts/ai-travel-planner)
 A concept artifact showing how generative AI can be applied to practical travel planning by creating personalized itineraries and recommendations.
+
+---
+
+## Featured Projects
+
+### 🧠 Evolution of Artificial Intelligence Timeline
+A visual timeline explaining the major milestones that shaped modern artificial intelligence — from the Turing Test and early neural networks to deep learning and generative AI.
+
+➡️ [View Project](artifacts/ai-timeline)
+
+---
+
+### ✈️ AI Travel Planner Assistant
+A generative AI application concept that helps users create personalized travel itineraries based on preferences such as location, duration, and interests.
+
+➡️ [View Project](artifacts/ai-travel-planner)
