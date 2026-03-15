@@ -24,7 +24,7 @@ This artifact shows how AI can move beyond theory and be applied to everyday pro
 
 ## Artifact Visual
 
-![AI Travel Planner](../assets/travel-planner.png)
+![AI Travel Planner](../assets/AITravelPlannerScreenshot.jpg)
 
 ## Live Demo
 
