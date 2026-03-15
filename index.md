@@ -1,7 +1,30 @@
 # Parin Shah
-Senior Staff Software Engineer | AI & Machine Learning Portfolio
+
+Senior Staff Software Engineer  
+Distributed Systems • Data Platforms • Artificial Intelligence  
 
 San Francisco Bay Area
+
+---
+
+## What I Build
+
+I design and build large-scale data and platform systems that power analytics, automation, and intelligent decision-making.
+
+My work spans:
+
+• Distributed systems and backend platforms  
+• Real-time data streaming and event processing  
+• Data pipelines and analytics infrastructure  
+• Artificial intelligence and AI-powered applications
+
+---
+
+## Impact
+
+• Architected systems processing **petabytes of data**  
+• Enabled platforms supporting **$2B+ in annual product shipments**  
+• Delivered **$200M+ in operational cost savings**
 
 ---
 
