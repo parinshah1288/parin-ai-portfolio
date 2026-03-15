@@ -47,17 +47,19 @@ Distributed Messaging • Stream Processing
 
 ## Featured Projects
 
-### 🧠 Evolution of Artificial Intelligence Timeline
+## Featured Projects
 
-A visual timeline highlighting major milestones in the evolution of artificial intelligence — from early theoretical work to modern generative AI systems.
+### Evolution of Artificial Intelligence Timeline
+
+A visual timeline explaining the major milestones that shaped modern artificial intelligence — from the Turing Test and early neural networks to deep learning and generative AI.
 
 ➡️ [View Project](artifacts/ai-timeline)
 
 ---
 
-### ✈️ AI Travel Planner Assistant
+### AI Travel Planner Assistant
 
-An AI-powered travel planning assistant that generates personalized travel itineraries based on destination, duration, and user preferences.
+A generative AI application concept that helps users create personalized travel itineraries based on preferences such as location, duration, and interests.
 
 ➡️ [View Project](artifacts/ai-travel-planner)
 
