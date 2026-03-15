@@ -1,8 +1,7 @@
 title: Parin Shah | AI & ML Portfolio
-description: Senior Staff Software Engineer focused on distributed systems, data platforms, and AI-powered applications.
-theme: minima
-minima:
-  skin: dark
+description: Senior Staff Software Engineer building distributed systems, data platforms, and AI-powered applications.
+theme: jekyll-theme-cayman
+
 header_pages:
   - about.md
   - artifacts.md
