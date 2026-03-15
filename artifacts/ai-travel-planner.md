@@ -24,5 +24,11 @@ This artifact shows how AI can move beyond theory and be applied to everyday pro
 
 ## Artifact Visual
 
-Add a screenshot of a sample travel planning interaction or a simple mockup here.
+
+
+## Live Demo
+
+You can try the AI Travel Planner here:
+
+[Open AI Travel Planner]https://chatgpt.com/g/g-69b5ffaa4c908191a216c6d9e799b258-ai-travel-planner
 
