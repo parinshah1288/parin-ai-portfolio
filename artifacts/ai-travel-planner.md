@@ -1,8 +1,3 @@
----
-layout: default
-title: AI Travel Planner Assistant
----
-
 # AI Travel Planner Assistant
 
 ## Introduction
