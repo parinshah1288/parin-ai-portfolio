@@ -23,7 +23,7 @@ I designed the concept around prompt-driven AI interactions where the system tak
 This artifact shows how AI can move beyond theory and be applied to everyday problems. It highlights the value of generative AI in creating personalized, practical, and user-friendly experiences.
 
 ## Artifact Visual
-![AI Travel Planner](../assets/ai-travel-planner.png)
+![AI Travel Planner]../assets/ai-travel-planner.png
 
 
 ## Live Demo
