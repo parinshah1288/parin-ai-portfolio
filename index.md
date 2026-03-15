@@ -1,4 +1,4 @@
-![Data Platform](assets/banner.jpg)
+![Data Platform](../assets/banner.jpg)
 
 # Parin Shah
 
