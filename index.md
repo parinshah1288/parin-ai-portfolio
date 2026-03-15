@@ -1,3 +1,5 @@
+![Data Platform](assets/banner.png)
+
 # Parin Shah
 
 Senior Staff Software Engineer  
