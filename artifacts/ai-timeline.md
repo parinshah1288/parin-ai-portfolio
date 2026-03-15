@@ -22,7 +22,12 @@ I researched important milestones in artificial intelligence and organized them 
 
 This artifact provides a simple and structured overview of AI history. It is useful for readers who want to understand how artificial intelligence developed over time and how the field reached its current state.
 
+
 ## Artifact Visual
+
+![AI Timeline](../assets/Timeline.jpg)
+
+## Download TimeLine
 
 [Download the AI Timeline Presentation](../assets/ai-timeline.pptx)
 
