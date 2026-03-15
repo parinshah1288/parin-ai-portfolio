@@ -45,9 +45,7 @@ Distributed Messaging • Stream Processing
 
 ---
 
-## Featured Projects
-
-## Featured Projects
+## Featured Artifacts
 
 ### Evolution of Artificial Intelligence Timeline
 
