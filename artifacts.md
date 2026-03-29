@@ -10,9 +10,6 @@ A visual and written summary of major developments in artificial intelligence fr
 
 A practical AI application concept demonstrating how generative AI can help users plan and personalize travel.
 
-## [Artifact 2 – Adaptive Learning in Education](artifacts/adaptive-learning).
+## [Artifact 3 – Adaptive Learning in Education](artifacts/adaptive-learning).
 
 A group presentation explaining how adaptive learning systems can personalize education by adjusting content based on student understanding and progress.
-
-➡️ [View Artifact](artifacts/adaptive-learning)
-
