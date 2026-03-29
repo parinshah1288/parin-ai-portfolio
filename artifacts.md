@@ -14,6 +14,6 @@ A practical AI application concept demonstrating how generative AI can help user
 
 A group presentation explaining how adaptive learning systems can personalize education by adjusting content based on student understanding and progress.
 
-## [Artifact 3 – Machine Learning vs Deep Learning](artifacts/ml-vs-dl). 
+## [Artifact 4 – Machine Learning vs Deep Learning](artifacts/ml-vs-dl). 
 
 A group project explaining the key differences between machine learning and deep learning, along with practical use cases for each approach.
