@@ -71,6 +71,14 @@ A group presentation showing how adaptive learning systems can personalize educa
 
 ---
 
+### Machine Learning vs Deep Learning
+
+A group project explaining the differences between machine learning and deep learning, along with real-world use cases for each approach.
+
+➡️ [View Project](artifacts/ml-vs-dl)
+
+---
+
 ## Professional Experience
 
 ### Intel Corporation — Senior Staff Software Engineer  
