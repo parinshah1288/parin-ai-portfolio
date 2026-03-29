@@ -63,7 +63,7 @@ A generative AI application concept that helps users create personalized travel 
 
 ---
 
-### 📘 Adaptive Learning in Education
+### Adaptive Learning in Education
 
 A group presentation showing how adaptive learning systems can personalize education based on student understanding, pace, and performance.
 
