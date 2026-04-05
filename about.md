@@ -1,9 +1,5 @@
 # About Me
 
-[← Home](/parin-ai-portfolio/) | [Artifacts](/parin-ai-portfolio/artifacts)
-
----
-
 ## Professional Bio
 
 I am a Senior Staff Software Engineer with extensive experience building distributed systems, backend services, and real-time data platforms. Over the course of my career, I have designed and delivered scalable systems that support high-throughput data processing, analytics, and operational decision-making.
