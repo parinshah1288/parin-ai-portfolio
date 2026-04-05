@@ -51,7 +51,7 @@ Distributed Messaging • Stream Processing
 
 A visual timeline explaining the major milestones that shaped modern artificial intelligence — from the Turing Test and early neural networks to deep learning and generative AI.
 
-➡️ [View Project](artifacts/ai-timeline)
+➡️ [View Artifact](artifacts/ai-timeline)
 
 ---
 
@@ -59,7 +59,7 @@ A visual timeline explaining the major milestones that shaped modern artificial 
 
 A generative AI application concept that helps users create personalized travel itineraries based on preferences such as location, duration, and interests.
 
-➡️ [View Project](artifacts/ai-travel-planner)
+➡️ [View Artifact](artifacts/ai-travel-planner)
 
 ---
 
@@ -67,7 +67,7 @@ A generative AI application concept that helps users create personalized travel 
 
 A group presentation showing how adaptive learning systems can personalize education based on student understanding, pace, and performance.
 
-➡️ [View Project](artifacts/adaptive-learning)
+➡️ [View Artifact](artifacts/adaptive-learning)
 
 ---
 
@@ -75,7 +75,7 @@ A group presentation showing how adaptive learning systems can personalize educa
 
 A group project explaining the differences between machine learning and deep learning, along with real-world use cases for each approach.
 
-➡️ [View Project](artifacts/ml-vs-dl)
+➡️ [View Artifact](artifacts/ml-vs-dl)
 
 ---
 
