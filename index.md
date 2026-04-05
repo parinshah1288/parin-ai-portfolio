@@ -79,6 +79,12 @@ A group project explaining the differences between machine learning and deep lea
 
 ---
 
+### Machine Learning Training Methods (Chatbot Interaction)
+
+An interactive activity where I used an AI chatbot to understand supervised, unsupervised, and reinforcement learning through guided questions.
+
+➡️ [View Artifact](artifacts/ml-training-chatbot)
+
 ## Professional Experience
 
 ### Intel Corporation — Senior Staff Software Engineer  
