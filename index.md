@@ -53,7 +53,6 @@ A visual timeline explaining the major milestones that shaped modern artificial 
 
 ➡️ [View Artifact](artifacts/ai-timeline)
 
----
 
 ### AI Travel Planner Assistant
 
@@ -61,7 +60,6 @@ A generative AI application concept that helps users create personalized travel 
 
 ➡️ [View Artifact](artifacts/ai-travel-planner)
 
----
 
 ### Adaptive Learning in Education
 
@@ -69,7 +67,6 @@ A group presentation showing how adaptive learning systems can personalize educa
 
 ➡️ [View Artifact](artifacts/adaptive-learning)
 
----
 
 ### Machine Learning vs Deep Learning
 
@@ -77,7 +74,6 @@ A group project explaining the differences between machine learning and deep lea
 
 ➡️ [View Artifact](artifacts/ml-vs-dl)
 
----
 
 ### Machine Learning Training Methods (Chatbot Interaction)
 
