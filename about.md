@@ -1,5 +1,3 @@
-<span style="font-size: 14px;">[Home](/) | [Artifacts](artifacts)</span>
-
 # About Me
 
 ## Professional Bio
