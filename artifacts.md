@@ -32,8 +32,6 @@ A group project explaining the key differences between machine learning and deep
 
 ---
 
-## Artifact 3: Machine Learning Training Methods (Chatbot Interaction)
+## [Artifact 3 – Machine Learning Training Methods (Chatbot Interaction)](artifacts/ml-training-chatbot)
 
 An interactive activity where I worked with an AI chatbot to understand different training methods used in machine learning.
-
-➡️ [View Artifact](artifacts/ml-training-chatbot)
