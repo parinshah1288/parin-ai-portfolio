@@ -29,3 +29,11 @@ A group presentation explaining how adaptive learning systems can personalize ed
 ### b) [Machine Learning vs Deep Learning](artifacts/ml-vs-dl)
 
 A group project explaining the key differences between machine learning and deep learning, along with practical use cases for each approach.
+
+---
+
+## Artifact 3: Machine Learning Training Methods (Chatbot Interaction)
+
+An interactive activity where I worked with an AI chatbot to understand different training methods used in machine learning.
+
+➡️ [View Artifact](artifacts/ml-training-chatbot)
