@@ -47,6 +47,6 @@ This artifact shows my ability to learn AI concepts through interaction and appl
 
 ## Artifact Evidence
 
-<img src="../assets/chatbot.png" width="100%">
+<img src="../assets/Chatbot.jpg" width="100%">
 
 This screenshot shows part of my interaction with the chatbot during the activity.
