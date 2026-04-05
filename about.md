@@ -1,3 +1,5 @@
+[Home](/parin-ai-portfolio/) | [Artifacts](/parin-ai-portfolio/artifacts)
+
 # About Me
 
 ## Professional Bio
