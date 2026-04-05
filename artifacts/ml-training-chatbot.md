@@ -10,9 +10,23 @@ The objective of this activity was to learn how machine learning models are trai
 
 ## Process
 
-In this activity, I interacted with a chatbot that guided me through a series of questions. Instead of just reading content, I had to think through each question and respond, and the chatbot helped refine my understanding.
+In this activity, I used a chatbot to explore machine learning training methods by asking a series of questions.
 
-The chatbot acted like a learning partner by asking follow-up questions and giving hints. This made the learning process more interactive compared to a traditional lesson.
+I asked questions such as:
+
+- How does a supervised learning model learn from the training data?  
+- What is the main approach used to train models in unsupervised learning?  
+- In reinforcement learning, how does an agent learn the best actions to take?  
+- Why are algorithms important in the training of machine learning models?  
+- What are the basic steps involved in training a machine learning model?  
+- How does repetition (iterating over data) help in training a model?  
+- What is the role of examples (data) in training a machine learning model?  
+
+Along with these, I also asked additional follow-up questions to understand the concepts more deeply.
+
+The chatbot responded with explanations and examples, and in some cases asked questions back to check my understanding. This made the interaction feel more like a conversation rather than just a question-and-answer activity.
+
+Overall, the process helped me better understand how different training methods work by actively thinking through the questions instead of just reading the material.
 
 ## Tools Used
 
@@ -33,4 +47,6 @@ This artifact shows my ability to learn AI concepts through interaction and appl
 
 ## Artifact Evidence
 
-This activity was completed through an interactive chatbot session recorded within the course platform.
+<img src="../assets/chatbot.png" width="100%">
+
+This screenshot shows part of my interaction with the chatbot during the activity.
