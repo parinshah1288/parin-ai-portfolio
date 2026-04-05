@@ -45,7 +45,7 @@ Distributed Messaging • Stream Processing
 
 ---
 
-## Featured Artifacts &nbsp;&nbsp; [View All →](artifacts)
+## Featured Artifacts <span style="font-size: 14px;">[All](artifacts)</span>
 
 ### Evolution of Artificial Intelligence Timeline
 
