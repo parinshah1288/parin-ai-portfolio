@@ -45,49 +45,63 @@ Distributed Messaging • Stream Processing
 
 ---
 
-## Featured Artifacts &nbsp;&nbsp;&nbsp; <span style="font-size: 14px;">[All](artifacts)</span>
+## Featured Artifacts <span style="font-size: 14px;">[All →](artifacts)</span>
 
-### Evolution of Artificial Intelligence Timeline
+### Artifact 1: AI Foundations
 
-A visual timeline explaining the major milestones that shaped modern artificial intelligence — from the Turing Test and early neural networks to deep learning and generative AI.
+#### a) Evolution of Artificial Intelligence Timeline
+
+A visual timeline explaining the major milestones that shaped modern artificial intelligence — from early theoretical ideas to generative AI.
 
 ➡️ [View Artifact](artifacts/ai-timeline)
 
+---
 
-### AI Travel Planner Assistant
+#### b) AI Travel Planner Assistant
 
-A generative AI application concept that helps users create personalized travel itineraries based on preferences such as location, duration, and interests.
+An AI-based travel planning assistant that generates personalized travel itineraries based on user preferences such as destination and duration.
 
 ➡️ [View Artifact](artifacts/ai-travel-planner)
 
+---
 
-### Adaptive Learning in Education
+### Artifact 2: Applied Concepts
 
-A group presentation showing how adaptive learning systems can personalize education based on student understanding, pace, and performance.
+#### a) Adaptive Learning in Education
+
+A group presentation showing how adaptive learning systems can personalize education based on student understanding, pace, and progress.
 
 ➡️ [View Artifact](artifacts/adaptive-learning)
 
+---
 
-### Machine Learning vs Deep Learning
+#### b) Machine Learning vs Deep Learning
 
-A group project explaining the differences between machine learning and deep learning, along with real-world use cases for each approach.
+A group presentation explaining the key differences between machine learning and deep learning, along with practical use cases for each approach.
 
 ➡️ [View Artifact](artifacts/ml-vs-dl)
 
+---
 
-### Machine Learning Training Methods (Chatbot Interaction)
+### Artifact 3: Interactive Learning with AI
 
-An interactive activity where I used an AI chatbot to understand supervised, unsupervised, and reinforcement learning through guided questions.
+#### a) Machine Learning Training Methods (Chatbot Interaction)
+
+An interactive activity where I used a chatbot to better understand machine learning training methods through guided questions, follow-up discussion, and examples.
 
 ➡️ [View Artifact](artifacts/ml-training-chatbot)
 
+---
 
-### Real-World Data Challenges and Bias in Machine Learning
+### Artifact 4: Data and Leadership in AI
+
+#### a) Real-World Data Challenges and Bias in Machine Learning
 
 An artifact focused on practical machine learning data issues such as quality, labeling, privacy, and bias, along with their impact on real-world AI systems.
 
 ➡️ [View Artifact](artifacts/data-challenges-bias)
 
+---
 
 ## Professional Experience
 
