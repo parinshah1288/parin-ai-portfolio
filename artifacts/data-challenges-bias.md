@@ -33,7 +33,7 @@ In many real-world scenarios, getting enough relevant data is difficult.
 - Some industries have limited data (healthcare, rare events)  
 - New problems may not have historical data  
 
-👉 Impact: Models may overfit or fail to generalize.
+Impact: Models may overfit or fail to generalize.
 
 ---
 
@@ -45,9 +45,9 @@ Data is often messy:
 - Duplicate records  
 - Inconsistent formats  
 
-👉 Impact: Poor data leads to unreliable predictions.
+Impact: Poor data leads to unreliable predictions.
 
-💡 From my experience working with large-scale data pipelines, even small inconsistencies can break downstream systems or produce incorrect analytics.
+From my experience working with large-scale data pipelines, even small inconsistencies can break downstream systems or produce incorrect analytics.
 
 ---
 
@@ -58,7 +58,7 @@ Supervised learning depends heavily on labeled data.
 - Labeling is time-consuming and expensive  
 - Human errors are common  
 
-👉 Impact: Incorrect labels directly reduce model accuracy.
+Impact: Incorrect labels directly reduce model accuracy.
 
 ---
 
@@ -66,7 +66,7 @@ Supervised learning depends heavily on labeled data.
 
 Handling sensitive data comes with strict regulations like GDPR or HIPAA.
 
-👉 Impact:
+Impact:
 
 - Limits access to data  
 - Requires secure storage and processing  
@@ -80,7 +80,7 @@ Bias occurs when data does not represent all groups fairly.
 - Underrepresentation of certain populations  
 - Historical bias in datasets  
 
-👉 Impact: Leads to unfair or skewed predictions.
+Impact: Leads to unfair or skewed predictions.
 
 ---
 
