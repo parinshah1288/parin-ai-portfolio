@@ -37,3 +37,11 @@ A group project explaining the key differences between machine learning and deep
 ### a) [Machine Learning Training Methods (Chatbot Interaction)](artifacts/ml-training-chatbot)
 
 An interactive activity where I worked with an AI chatbot to understand different training methods used in machine learning.
+
+---
+
+## Artifact 4: Data and Leadership in AI
+
+### a) [Real-World Data Challenges and Bias in Machine Learning](artifacts/data-challenges-bias)
+
+Understanding real-world data challenges and how human bias impacts machine learning systems.
