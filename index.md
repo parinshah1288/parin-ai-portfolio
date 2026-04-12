@@ -81,6 +81,14 @@ An interactive activity where I used an AI chatbot to understand supervised, uns
 
 ➡️ [View Artifact](artifacts/ml-training-chatbot)
 
+
+### Real-World Data Challenges and Bias in Machine Learning
+
+An artifact focused on practical machine learning data issues such as quality, labeling, privacy, and bias, along with their impact on real-world AI systems.
+
+➡️ [View Artifact](artifacts/data-challenges-bias)
+
+
 ## Professional Experience
 
 ### Intel Corporation — Senior Staff Software Engineer  
