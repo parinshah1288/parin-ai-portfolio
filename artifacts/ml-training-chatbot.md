@@ -91,3 +91,11 @@ This screenshot shows part of my interaction with the chatbot during the activit
 - Chatbot-based learning activity  
 
 *Note: ChatGPT was used only for organizing and refining the content. All questions, understanding, and learning are based on my own interaction with the chatbot.*
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
