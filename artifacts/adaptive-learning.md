@@ -92,3 +92,11 @@ Adaptive learning is an important real-world application of AI in education, sho
 - Group presentation and research sources  
 
 *Note: ChatGPT was used only for organizing and refining the content. The ideas and use case are based on my group work and understanding.*
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
