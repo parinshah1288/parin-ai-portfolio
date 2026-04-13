@@ -83,3 +83,11 @@ You can try the AI Travel Planner here:
 - ChatGPT (GPT Builder)  
 
 *Note: ChatGPT was used to build and test the assistant. The concept, prompts, and structure are based on my own design.*
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
