@@ -140,3 +140,15 @@ Understanding data challenges and bias is critical for building reliable and fai
 ## Artifact Evidence
 
 This artifact is based on Workshop 4 lessons and activities focused on data challenges and bias in machine learning.
+
+---
+
+## References
+
+- Course materials from Workshop 4 (Data Challenges in Machine Learning)
+- Class discussions and scenario-based learning
+- Personal experience working with large-scale data systems
+
+*Note: ChatGPT was used only for organizing and refining content. All ideas and examples are based on my own understanding and experience.*
+
+---
