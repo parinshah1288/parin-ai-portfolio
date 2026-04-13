@@ -9,9 +9,13 @@ San Francisco Bay Area
 
 [LinkedIn](https://linkedin.com/in/parin-m-shah) | [GitHub](https://github.com/parinshah1288)
 
-[Home](./) | [About](about) | [Artifacts](artifacts)
-
 ---
+
+<p align="center">
+<a href="./">Home</a> | 
+<a href="about">About</a> | 
+<a href="artifacts">Artifacts</a>
+</p>
 
 ---
 
@@ -30,6 +34,8 @@ Key impact highlights include:
 I am currently expanding my expertise in **Artificial Intelligence and Machine Learning** through graduate coursework at Indiana Wesleyan University.
 
 This portfolio showcases selected artifacts and projects related to **AI, data platforms, and intelligent applications.**
+
+👉 [Learn more about me →](about)
 
 ---
 
@@ -158,3 +164,11 @@ Research publication presented at **ACM Southeast Conference 2013**.
 Time-efficient architecture for face detection from images using support vector machines.
 
 https://dl.acm.org/doi/10.1145/2498328.2500062
+
+---
+
+<p align="center">
+<a href="./">Home</a> | 
+<a href="about">About</a> | 
+<a href="artifacts">Artifacts</a>
+</p>
