@@ -29,6 +29,18 @@ This portfolio showcases selected artifacts and projects related to **AI, data p
 
 ---
 
+## Target Audience
+
+This portfolio is intended for:
+
+- Engineering managers and technical leaders evaluating system design and AI capabilities  
+- Recruiters looking for candidates with both backend engineering and AI/ML understanding  
+- Peers and students interested in practical applications of AI and machine learning  
+
+The goal of this portfolio is to demonstrate not only theoretical knowledge but also real-world thinking, problem-solving, and system-level understanding of AI applications.
+
+---
+
 ## Technical Focus
 
 Distributed Systems  
