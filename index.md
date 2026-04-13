@@ -9,6 +9,10 @@ San Francisco Bay Area
 
 [LinkedIn](https://linkedin.com/in/parin-m-shah) | [GitHub](https://github.com/parinshah1288)
 
+[Home](./) | [About](about) | [Artifacts](artifacts)
+
+---
+
 ---
 
 ## About Me
