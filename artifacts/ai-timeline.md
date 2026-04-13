@@ -1,5 +1,13 @@
 # Evolution of Artificial Intelligence Timeline
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 This artifact presents a timeline of major developments in artificial intelligence, from early theoretical ideas to modern generative AI systems.
