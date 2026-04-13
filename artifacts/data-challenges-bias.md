@@ -1,5 +1,13 @@
 # Real-World Data Challenges and Bias in Machine Learning
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 Machine learning models are only as good as the data they are trained on. While building models is important, the real challenge often lies in handling data issues that affect accuracy, fairness, and scalability.
