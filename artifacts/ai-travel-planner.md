@@ -1,5 +1,13 @@
 # AI Travel Planner Assistant
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 This artifact demonstrates the concept of an AI-powered travel planning assistant that helps users generate itineraries and travel recommendations based on their preferences.
