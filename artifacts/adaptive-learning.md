@@ -1,5 +1,13 @@
 # Adaptive Learning in Education
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 This artifact is a group presentation on how adaptive learning can be used in an educational system to improve the learning experience for students.
