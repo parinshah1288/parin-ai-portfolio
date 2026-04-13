@@ -160,3 +160,9 @@ This artifact is based on Workshop 4 lessons and activities focused on data chal
 *Note: ChatGPT was used only for organizing and refining content. All ideas and examples are based on my own understanding and experience.*
 
 ---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
