@@ -43,11 +43,11 @@ The goal of this portfolio is to demonstrate not only theoretical knowledge but 
 
 ## Technical Focus
 
-Distributed Systems  
-Data Engineering & Data Pipelines  
-Real-time Streaming Platforms  
-Cloud Data Platforms  
-Artificial Intelligence Applications  
+- Distributed Systems  
+- Data Engineering & Data Pipelines  
+- Real-time Streaming Platforms  
+- Cloud Data Platforms  
+- Artificial Intelligence Applications  
 
 Technologies used in my work include:
 
@@ -97,9 +97,7 @@ A group presentation explaining the key differences between machine learning and
 
 ### Artifact 3: Interactive Learning with AI
 
-#### a) Machine Learning Training Methods (Chatbot Interaction)
-
-An interactive activity where I used a chatbot to better understand machine learning training methods through guided questions, follow-up discussion, and examples.
+Machine Learning Training Methods (Chatbot Interaction)
 
 ➡️ [View Artifact](artifacts/ml-training-chatbot)
 
@@ -107,9 +105,7 @@ An interactive activity where I used a chatbot to better understand machine lear
 
 ### Artifact 4: Data and Leadership in AI
 
-#### a) Real-World Data Challenges and Bias in Machine Learning
-
-An artifact focused on practical machine learning data issues such as quality, labeling, privacy, and bias, along with their impact on real-world AI systems.
+Real-World Data Challenges and Bias in Machine Learning
 
 ➡️ [View Artifact](artifacts/data-challenges-bias)
 
@@ -147,7 +143,7 @@ Developed software systems supporting large-scale FPGA testing platforms.
 San Jose State University  
 
 **Bachelor of Engineering – Computer Engineering**  
-Sardar Patel University
+Sardar Patel University  
 
 ---
 
