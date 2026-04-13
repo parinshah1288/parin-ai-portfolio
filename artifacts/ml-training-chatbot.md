@@ -1,5 +1,13 @@
 # Machine Learning Training Methods (Chatbot Interaction)
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 This artifact is based on an interactive activity where I worked with an AI chatbot to understand different training methods used in machine learning.
