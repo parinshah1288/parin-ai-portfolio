@@ -4,9 +4,19 @@
 
 This artifact is based on an interactive activity where I worked with an AI chatbot to understand different training methods used in machine learning.
 
+---
+
+## Description
+
+This activity focused on learning how machine learning models are trained through an interactive conversation with a chatbot. Instead of reading static material, the learning happened through asking questions, exploring examples, and understanding concepts step by step.
+
+---
+
 ## Objective
 
 The objective of this activity was to learn how machine learning models are trained, including concepts such as supervised learning, unsupervised learning, and reinforcement learning.
+
+---
 
 ## Process
 
@@ -28,25 +38,48 @@ The chatbot responded with explanations and examples, and in some cases asked qu
 
 Overall, the process helped me better understand how different training methods work by actively thinking through the questions instead of just reading the material.
 
-## Tools Used
+---
 
-- AI Chatbot (Machine Learning Training Methods Coach)
-- Course materials
+## Tools and Technologies Used
+
+- AI Chatbot (Machine Learning Training Methods Coach)  
+- Course materials  
+
+---
 
 ## Key Concepts Learned
 
-- Supervised learning uses labeled data to train models.
-- Unsupervised learning finds patterns in data without labels.
-- Reinforcement learning learns through rewards and feedback.
-- Training a model involves multiple iterations over data.
-- Data plays a key role in how well a model performs.
+- Supervised learning uses labeled data to train models  
+- Unsupervised learning finds patterns in data without labels  
+- Reinforcement learning learns through rewards and feedback  
+- Training involves repeated iterations over data  
+- Data quality and examples directly impact model performance  
+
+---
 
 ## Value Proposition
 
-This artifact shows my ability to learn AI concepts through interaction and apply reasoning instead of just memorizing theory. It also demonstrates how AI tools can be used to support learning and problem-solving.
+### Unique Value
+
+This artifact demonstrates a different way of learning machine learning concepts through interaction and questioning instead of just reading theory.
+
+### Relevance
+
+Interactive learning using AI tools is becoming more common, and this artifact shows how such tools can help in understanding complex concepts in a more practical and engaging way.
+
+---
 
 ## Artifact Evidence
 
 <img src="../assets/Chatbot.jpg" width="100%">
 
 This screenshot shows part of my interaction with the chatbot during the activity.
+
+---
+
+## References
+
+- Course materials on machine learning training methods  
+- Chatbot-based learning activity  
+
+*Note: ChatGPT was used only for organizing and refining the content. All questions, understanding, and learning are based on my own interaction with the chatbot.*
