@@ -1,5 +1,13 @@
 # About Me
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Professional Bio
 
 I am a Senior Staff Software Engineer with over 13 years of experience building distributed systems, backend services, and real-time data platforms. Over the course of my career, I have designed and delivered scalable systems that support high-throughput data processing, analytics, and operational decision-making.
@@ -47,3 +55,11 @@ I bring over a decade of experience building large-scale distributed systems and
 My strength lies in connecting real-world system design with AI concepts, allowing me to approach machine learning problems with a strong foundation in data engineering, scalability, and reliability.
 
 I focus on building AI-driven systems that are not only technically strong but also practical, scalable, and responsible.
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
