@@ -127,7 +127,13 @@ As a leader, it is important to:
 
 ## Value Proposition
 
-This artifact demonstrates my understanding of real-world data challenges in machine learning and my ability to think about bias not only as a technical issue but also as a leadership concern.
+### Unique Value
+
+This artifact highlights my ability to connect machine learning concepts with real-world data engineering challenges, including issues I have seen in large-scale systems.
+
+### Relevance
+
+Understanding data challenges and bias is critical for building reliable and fair AI systems. This artifact demonstrates awareness of both technical and leadership considerations in AI/ML development.
 
 ---
 
