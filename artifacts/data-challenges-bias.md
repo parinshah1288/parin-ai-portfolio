@@ -117,11 +117,11 @@ As a leader, it is important to:
 
 ---
 
-## Tools Used
+## Tools and Technologies Used
 
 - Course materials  
-- Scenario-based discussions  
-- AI chatbot for guided learning  
+- Scenario-based analysis  
+- AI chatbot for guided reasoning  
 
 ---
 
