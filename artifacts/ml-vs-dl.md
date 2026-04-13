@@ -1,5 +1,13 @@
 # Machine Learning vs Deep Learning
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
 ## Introduction
 
 This artifact is a group presentation that explains the difference between Machine Learning (ML) and Deep Learning (DL), along with practical use cases for each.
