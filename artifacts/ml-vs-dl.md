@@ -96,3 +96,11 @@ Understanding the difference between machine learning and deep learning is impor
 - Group presentation research and discussion  
 
 *Note: ChatGPT was used only for organizing and refining the content. All concepts and examples are based on my understanding and group work.*
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
