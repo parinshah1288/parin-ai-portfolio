@@ -79,3 +79,11 @@ Understanding the history of AI helps connect past developments to current techn
 - Public resources on major AI milestones  
 
 *Note: ChatGPT was used only for organizing and refining the content.*
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
