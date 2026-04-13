@@ -38,3 +38,13 @@ Sardar Patel University
 **Time-efficient architecture for face detection from images using support vector machine**  
 ACM SE Conference 2013
 
+---
+
+## Personal Value Proposition
+
+I bring over a decade of experience building large-scale distributed systems and data platforms, combined with a growing focus on artificial intelligence and machine learning.
+
+My strength lies in connecting real-world system design with AI concepts, allowing me to approach machine learning problems with a strong foundation in data engineering, scalability, and reliability.
+
+I aim to build AI-driven systems that are not only technically strong but also practical, scalable, and responsible.
+
