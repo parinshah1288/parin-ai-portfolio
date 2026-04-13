@@ -8,6 +8,12 @@ This artifact is based on my learning from Workshop 4, where we explored real-wo
 
 ---
 
+## Description
+
+In this artifact, I explored common real-world data challenges in machine learning such as data quality, labeling, bias, and privacy. The focus was on understanding how these challenges impact model performance and system reliability.
+
+---
+
 ## Objective
 
 The objective of this activity was to understand the practical challenges involved in working with data in machine learning systems and how bias can affect outcomes.
