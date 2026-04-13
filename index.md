@@ -35,7 +35,7 @@ I am currently expanding my expertise in **Artificial Intelligence and Machine L
 
 This portfolio showcases selected artifacts and projects related to **AI, data platforms, and intelligent applications.**
 
-👉 [Learn more about me →](about)
+[Learn more about me →](about)
 
 ---
 
