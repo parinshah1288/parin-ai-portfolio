@@ -1,5 +1,14 @@
 # Artifact 5: AI Trading Pattern Analysis Agent
 
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
+
+---
+
+
 ![AI Trading](../assets/ai-trading.png)
 
 ## Overview
