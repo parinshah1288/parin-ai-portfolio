@@ -1,6 +1,6 @@
 # Artifact 5: AI Trading Pattern Analysis Agent
 
-![AI Trading](assets/ai-trading.png)
+![AI Trading](../assets/ai-trading.png)
 
 ## Overview
 
@@ -37,7 +37,7 @@ It answers questions like:
 
 ## System Architecture
 
-![Architecture](assets/trading-architecture.png)
+![Architecture](../assets/trading-architecture.png)
 
 ### Components:
 
@@ -108,7 +108,7 @@ Used alongside ML for clear signals:
 
 ## Example Output
 
-![Dashboard](assets/trading-dashboard.png)
+![Dashboard](../assets/trading-dashboard.png)
 
 Sample insights:
 
