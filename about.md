@@ -56,6 +56,24 @@ My strength lies in connecting real-world system design with AI concepts, allowi
 
 I focus on building AI-driven systems that are not only technically strong but also practical, scalable, and responsible.
 
+### Who this is for
+
+This portfolio is intended for:
+- Engineering leaders and hiring managers looking for strong backend and AI system design skills  
+- Teams building data-intensive and AI-driven platforms  
+- Organizations looking to apply AI in real-world, production-scale systems  
+
+### What I bring
+
+- Strong experience in distributed systems and backend engineering  
+- Ability to design scalable data pipelines and real-time systems  
+- Practical approach to applying AI/ML in business and product use cases  
+- Focus on building reliable, efficient, and maintainable systems
+  
+---
+
+[View My Work →](artifacts.md)
+
 ---
 
 <p align="center">
