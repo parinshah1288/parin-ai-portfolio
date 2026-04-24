@@ -163,3 +163,11 @@ Sample insights:
 This project reflects my interest in applying AI to real-world behavioral problems rather than just theoretical models. It combines my background in distributed systems with machine learning concepts to design a practical and scalable solution.
 
 It also shows how AI can go beyond prediction and actually help improve human decision-making over time.
+
+---
+
+<p align="center">
+<a href="/parin-ai-portfolio/">Home</a> | 
+<a href="/parin-ai-portfolio/about">About</a> | 
+<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+</p>
