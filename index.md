@@ -121,6 +121,14 @@ Real-World Data Challenges and Bias in Machine Learning
 
 ---
 
+### Artifact 5: AI Trading Pattern Analysis Agent
+
+This project focuses on designing an AI-based system that analyzes trading behavior and identifies patterns, mistakes, and opportunities for improvement. It combines machine learning techniques with system design principles to provide actionable insights.
+
+➡️ [View Artifact](artifacts/ai-trading-pattern-agent)
+
+---
+
 ## Professional Experience
 
 ### Intel Corporation — Senior Staff Software Engineer  
