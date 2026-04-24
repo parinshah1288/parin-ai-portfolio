@@ -56,6 +56,14 @@ Understanding real-world data challenges and how human bias impacts machine lear
 
 ---
 
+## Artifact 5: AI Trading Pattern Analysis Agent
+
+A system design project that applies AI/ML techniques to analyze trading behavior and improve decision-making.
+
+[View Details](ai-trading-pattern-agent.md)
+
+---
+
 <p align="center">
 <a href="/parin-ai-portfolio/">Home</a> | 
 <a href="/parin-ai-portfolio/about">About</a> | 
