@@ -1,6 +1,6 @@
 # Artifact 5: AI Trading Pattern Analysis Agent
 
-![AI Trading](assets/ai-trading.jpg)
+![AI Trading](assets/ai-trading.png)
 
 ## Overview
 
