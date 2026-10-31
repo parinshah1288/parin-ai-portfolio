@@ -4,4 +4,5 @@ theme: jekyll-theme-cayman
 
 header_pages:
   - about.md
-  - artifacts.md
+  - aiml-500.md
+  - aiml-501.md
