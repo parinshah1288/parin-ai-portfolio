@@ -16,15 +16,15 @@
 
 This section documents coursework and portfolio artifacts for **AIML-501: Model Development** at Indiana Wesleyan University.
 
-## Workshop 1
+## Workshop 1 — Portfolio Artifacts
 
-### Assignment 1.5 — Machine Learning Algorithms Visual Framework
+### Artifact 1 — Machine Learning Algorithms Visual Framework (Assignment 1.5)
 
-**Assignment focus:** A visual framework comparing 8–10 machine learning algorithms, their learning approaches, application domains, brief explanations, and practical use cases.
+A visual guide comparing **10 machine learning methods**, including supervised and unsupervised algorithms, computer vision models, NLP, and generative AI. Each method includes a short explanation, relevant application domains, and an example use case.
 
-The completed infographic and the accompanying artifact write-up will be published here when ready.
+**[View Artifact 1 — Machine Learning Algorithms Visual Framework](artifacts/aiml-501-ml-algorithms)**
 
-The artifact will include its title, introduction, description, objective, process, tools and technologies, value proposition, unique value, relevance, and references where applicable. The separate learning reflection will be submitted through Brightspace rather than posted in this portfolio.
+The artifact also documents the classification rationale, learning goals, development process, technologies, professional value, and references. The separate reflection belongs in the Brightspace submission text area.
 
 ---
 
