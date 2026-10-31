@@ -14,7 +14,8 @@ San Francisco Bay Area
 <p align="center">
 <a href="./">Home</a> | 
 <a href="about">About</a> | 
-<a href="artifacts">Artifacts</a>
+<a href="aiml-500">AIML-500: Machine Learning Fundamentals</a> | 
+<a href="aiml-501">AIML-501: Model Development</a>
 </p>
 
 ---
@@ -67,7 +68,19 @@ Distributed Messaging • Stream Processing
 
 ---
 
-## Featured Artifacts <span style="font-size: 14px;">[All →](artifacts)</span>
+## Coursework and Portfolio Artifacts
+
+### [AIML-500 — Machine Learning Fundamentals](aiml-500)
+
+All existing coursework and the seven published artifacts are grouped under AIML-500. The original artifact links are retained below.
+
+### [AIML-501 — Model Development](aiml-501)
+
+New Model Development coursework will be published here, starting with **Assignment 1.5: Machine Learning Algorithms Visual Framework**.
+
+---
+
+## AIML-500 Featured Artifacts <span style="font-size: 14px;">[All →](aiml-500)</span>
 
 ### Artifact 1: AI Foundations
 
@@ -178,5 +191,6 @@ https://dl.acm.org/doi/10.1145/2498328.2500062
 <p align="center">
 <a href="./">Home</a> | 
 <a href="about">About</a> | 
-<a href="artifacts">Artifacts</a>
+<a href="aiml-500">AIML-500: Machine Learning Fundamentals</a> | 
+<a href="aiml-501">AIML-501: Model Development</a>
 </p>
