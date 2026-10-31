@@ -12,13 +12,16 @@
   </details>
 </nav>
 
-
 ---
 
-## Artifacts
+This course section contains my portfolio artifacts for Model Development.
 
-### Artifact 1
+## Course artifacts
 
-**[Machine Learning Algorithms Visual Framework](artifacts/aiml-501-ml-algorithms)**
+### Artifact 1 — Machine Learning Algorithms Visual Framework
 
-A visual comparison of 10 machine learning algorithms and model families across tabular data, computer vision, natural language processing, and generative AI. Includes learning approaches, brief explanations, and practical real-world examples.
+- [Machine Learning Algorithms Visual Framework](artifacts/aiml-501-ml-algorithms)
+
+A visual comparison of 10 machine learning algorithms and model families, showing how they work and where they are used in tabular data, computer vision, natural language processing, and generative AI.
+
+---
