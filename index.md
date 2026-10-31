@@ -77,13 +77,13 @@ Distributed Messaging • Stream Processing
 
 Explore my coursework and portfolio artifacts from Indiana Wesleyan University's AI and Machine Learning program. Select a course to view its assignments and completed work.
 
+### [AIML-501 — Model Development](aiml-501)
+
+View the portfolio artifacts for Model Development.
+
 ### [AIML-500 — Machine Learning Fundamentals](aiml-500)
 
 View the coursework and existing portfolio artifacts from Machine Learning Fundamentals.
-
-### [AIML-501 — Model Development](aiml-501)
-
-View the portfolio assignments and projects for Model Development, starting with Assignment 1.5.
 
 ---
 
