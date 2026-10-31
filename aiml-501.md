@@ -17,8 +17,8 @@
 
 ## Artifacts
 
-### Artifact 1 — Machine Learning Algorithms Visual Framework
+### Artifact 1
+
+**[Machine Learning Algorithms Visual Framework](artifacts/aiml-501-ml-algorithms)**
 
 A visual comparison of 10 machine learning algorithms and model families across tabular data, computer vision, natural language processing, and generative AI. Includes learning approaches, brief explanations, and practical real-world examples.
-
-[View Artifact 1](artifacts/aiml-501-ml-algorithms)
