@@ -68,77 +68,17 @@ Distributed Messaging • Stream Processing
 
 ---
 
-## Coursework and Portfolio Artifacts
+## Coursework
+
+Explore my coursework and portfolio artifacts from Indiana Wesleyan University's AI and Machine Learning program. Select a course to view its assignments and completed work.
 
 ### [AIML-500 — Machine Learning Fundamentals](aiml-500)
 
-All existing coursework and the seven published artifacts are grouped under AIML-500. The original artifact links are retained below.
+View the coursework and existing portfolio artifacts from Machine Learning Fundamentals.
 
 ### [AIML-501 — Model Development](aiml-501)
 
-New Model Development coursework will be published here, starting with **Assignment 1.5: Machine Learning Algorithms Visual Framework**.
-
----
-
-## AIML-500 Featured Artifacts <span style="font-size: 14px;">[All →](aiml-500)</span>
-
-### Artifact 1: AI Foundations
-
-#### a) Evolution of Artificial Intelligence Timeline
-
-A visual timeline explaining the major milestones that shaped modern artificial intelligence — from early theoretical ideas to generative AI.
-
-➡️ [View Artifact](artifacts/ai-timeline)
-
----
-
-#### b) AI Travel Planner Assistant
-
-An AI-based travel planning assistant that generates personalized travel itineraries based on user preferences such as destination and duration.
-
-➡️ [View Artifact](artifacts/ai-travel-planner)
-
----
-
-### Artifact 2: Applied Concepts
-
-#### a) Adaptive Learning in Education
-
-A group presentation showing how adaptive learning systems can personalize education based on student understanding, pace, and progress.
-
-➡️ [View Artifact](artifacts/adaptive-learning)
-
----
-
-#### b) Machine Learning vs Deep Learning
-
-A group presentation explaining the key differences between machine learning and deep learning, along with practical use cases for each approach.
-
-➡️ [View Artifact](artifacts/ml-vs-dl)
-
----
-
-### Artifact 3: Interactive Learning with AI
-
-Machine Learning Training Methods (Chatbot Interaction)
-
-➡️ [View Artifact](artifacts/ml-training-chatbot)
-
----
-
-### Artifact 4: Data and Leadership in AI
-
-Real-World Data Challenges and Bias in Machine Learning
-
-➡️ [View Artifact](artifacts/data-challenges-bias)
-
----
-
-### Artifact 5: AI Trading Pattern Analysis Agent
-
-This project focuses on designing an AI-based system that analyzes trading behavior and identifies patterns, mistakes, and opportunities for improvement. It combines machine learning techniques with system design principles to provide actionable insights.
-
-➡️ [View Artifact](artifacts/ai-trading-pattern-agent)
+View the portfolio assignments and projects for Model Development, starting with Assignment 1.5.
 
 ---
 
