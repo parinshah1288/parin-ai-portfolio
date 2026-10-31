@@ -1,9 +1,10 @@
-# Artifacts
+# AIML-500 — Machine Learning Fundamentals Artifacts
 
 <p align="center">
 <a href="/parin-ai-portfolio/">Home</a> | 
 <a href="/parin-ai-portfolio/about">About</a> | 
-<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+<a href="/parin-ai-portfolio/aiml-500">AIML-500</a> | 
+<a href="/parin-ai-portfolio/aiml-501">AIML-501</a>
 </p>
 
 ---
@@ -67,5 +68,6 @@ A system design project that applies AI/ML techniques to analyze trading behavio
 <p align="center">
 <a href="/parin-ai-portfolio/">Home</a> | 
 <a href="/parin-ai-portfolio/about">About</a> | 
-<a href="/parin-ai-portfolio/artifacts">Artifacts</a>
+<a href="/parin-ai-portfolio/aiml-500">AIML-500</a> | 
+<a href="/parin-ai-portfolio/aiml-501">AIML-501</a>
 </p>
