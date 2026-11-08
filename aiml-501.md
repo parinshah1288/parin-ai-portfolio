@@ -25,3 +25,11 @@ This course section contains my portfolio artifacts for Model Development.
 A visual comparison of 10 machine learning algorithms and model families, showing how they work and where they are used in tabular data, computer vision, natural language processing, and generative AI.
 
 ---
+
+### Artifact 2 — Neural Network Components and Learning Process
+
+- [Neural Network Components and Learning Process](artifacts/aiml-501-neural-network-components)
+
+A visual presentation explaining layers, neurons, weights, activation functions, loss functions, and optimization through a TensorFlow Playground circle classification example.
+
+---
