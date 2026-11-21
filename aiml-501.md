@@ -33,3 +33,11 @@ A visual comparison of 10 machine learning algorithms and model families, showin
 A visual presentation explaining layers, neurons, weights, activation functions, loss functions, and optimization through a TensorFlow Playground circle classification example.
 
 ---
+
+### Artifact 3 — Training Large Language Models
+
+- [Training Large Language Models](artifacts/aiml-501-llm-training)
+
+An infographic tracing the path from data collection to deployment and comparing the data, compute, energy, and time behind large-scale model training.
+
+---
