@@ -41,3 +41,11 @@ A visual presentation explaining layers, neurons, weights, activation functions,
 An infographic tracing the path from data collection to deployment and comparing the data, compute, energy, and time behind large-scale model training.
 
 ---
+
+### Artifact 4 — Explainable AI: The Trust Test
+
+- [Explainable AI: The Trust Test](artifacts/aiml-501-xai-explainability)
+
+A visual guide to model transparency, validation, performance metrics, evidence verification, and responsible AI deployment.
+
+---
