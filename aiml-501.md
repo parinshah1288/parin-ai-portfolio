@@ -49,3 +49,14 @@ An infographic tracing the path from data collection to deployment and comparing
 A visual guide to model transparency, validation, performance metrics, evidence verification, and responsible AI deployment.
 
 ---
+
+---
+
+### Artifact 5 — Pre-trained Model Selection & Explainability
+
+- [Pre-trained Model Selection Decision Matrix](artifacts/aiml-501-model-selection-explainability)
+- [Companion Explanatory Note](artifacts/aiml-501-model-selection-explanatory-note)
+
+A comparative visual framework covering five pre-trained checkpoints across NLP, computer vision, and tabular prediction, with sourced size, accuracy, speed, and explainability analysis plus deployment recommendations.
+
+---
