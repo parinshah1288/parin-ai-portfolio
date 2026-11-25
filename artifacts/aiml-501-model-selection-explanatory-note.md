@@ -1,4 +1,4 @@
-# Assignment 5.4 — Explanatory Note
+# Artifact 5 — Pre-trained Model Selection & Explainability
 
 [Return to the model selection artifact](/parin-ai-portfolio/artifacts/aiml-501-model-selection-explainability)
 
