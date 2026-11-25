@@ -8,6 +8,13 @@
 
 This graphic compares five documented pre-trained models from three domains: all-MiniLM-L6-v2 and all-mpnet-base-v2 (NLP embeddings), MobileNetV3 Large and EfficientNet-B0 (vision), and TabPFN-v2 (tabular classification). It evaluates model size, source-reported predictive performance, throughput or computational cost, and explainability.
 
+## Visual decision matrix
+
+<figure style="margin:20px 0;">
+  <a href="/parin-ai-portfolio/assets/aiml-501-model-selection-matrix.svg"><img src="/parin-ai-portfolio/assets/aiml-501-model-selection-matrix.svg" alt="Decision matrix comparing MiniLM, MPNet, MobileNetV3 Large, EfficientNet-B0 and TabPFN-v2 by model size, benchmark quality, inference speed or compute, and explainability." style="display:block;width:100%;height:auto;border:1px solid #dbe6ee;border-radius:12px;"></a>
+  <figcaption style="font-size:0.85rem;color:#526779;text-align:center;margin-top:10px;">Figure 1. Pre-trained model selection matrix across NLP, computer vision, and tabular classification. Select the graphic to view it at full size.</figcaption>
+</figure>
+
 ## Research method
 
 I used published model-card data from Sentence Transformers and TorchVision, the peer-reviewed TabPFN study in *Nature*, and Prior Labs' comparative technical report. This is a research synthesis, not a newly run experiment. Each quality figure retains its original units: semantic-search aggregate score, ImageNet-1K top-1 accuracy, or dataset-level tabular results. Throughput, GFLOPs, and scenario-specific inference latency are separate measurements and should not be ranked as if they were interchangeable.
